@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
- <head>
-   <title>JavaScript</title>
- </head>
- <body>
-   <script>
+<script>
      /*Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.),
      se digitar outro valor deve aparecer valor inválido.*/
      var n1=parseInt(prompt("Qual o numero do dia da semana:  "));
@@ -26,6 +20,4 @@
      }else{
          document.write("<h2> Valor inválido! </h2>");
      }
-   </script>
- </body>
-</html>
+</script>
